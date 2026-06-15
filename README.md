@@ -1,2 +1,5 @@
-# 2026-Autoria-Web-Livia-Lima
-INFO1M Autoria web exercício. Introdução ao Git Hub
+# REPOSITÓRIO PARA A DISCIPLINA DE AUTORIA WEB
+INFO1M Autoria web exercício. Introdução ao Git Hub.
+
+## Informações básicas
+... blá blá blá
